@@ -23,3 +23,23 @@ Skills: PYTHON / HTML / POSTGRESQL / DOCKER / HTML /  CSS / COMUNICATION
 ![GitHub metrics](https://metrics.lecoq.io/watrax13)  
 
 ![Profile views](https://gpvc.arturio.dev/watrax13)  
+
+## Olá! Sou Sisnando Junior👋
+#### Bem vindo ao meu mundo 🧑‍💻!
+
+ [![Linkedin Badge](https://img.shields.io/badge/-SisnandoJunior-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sisnando-junior-812050b6/)](https://www.linkedin.com/in/sisnando-junior-812050b6/) 
+ [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/sisnando_dev?igshid=1o9uhlz6bqs4s)](https://instagram.com/sisnando_dev?igshid=1o9uhlz6bqs4s) 
+[![Gmail Badge](https://img.shields.io/badge/-nandodevs@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nandodevs@gmail.com)](mailto:nandodevs@gmail.com)
+
+### Sou um estudante em programação FullStack em São Luís - MA.
+
+- 👨‍🎓  &nbsp; Sou graduado em Ciências Sociais pela [UNICAMP](https://www.unicamp.br/unicamp/).
+- 👨‍💻 &nbsp; Atualmente trabalho na [Necto System](http://znc.com.br/en/) como Dev Python
+- 📖 &nbsp; Estudando e praticando sobre Backend e Frontend em Python e Vue.js
+
+**💻 Experiências:**
+ | Flutter 💙 | Java🧡 | Python💜 | Spring 💜| MySQL💜 | PostgreSQL💜| IoT💜|
+
+
+## Github Stats ...
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nandodevs&count_private=true&show_icons=true&theme=onedark)
