@@ -16,7 +16,8 @@ Skills: PYTHON / HTML / POSTGRESQL / DOCKER / HTML /  CSS / COMUNICATION
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wartrax13)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wartrax13&show_icons=true)  
+## Github Stats ...
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wartrax13&count_private=true&show_icons=true&theme=onedark)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wartrax13)  
 
@@ -40,6 +41,3 @@ Skills: PYTHON / HTML / POSTGRESQL / DOCKER / HTML /  CSS / COMUNICATION
 **💻 Experiências:**
  | Flutter 💙 | Java🧡 | Python💜 | Spring 💜| MySQL💜 | PostgreSQL💜| IoT💜|
 
-
-## Github Stats ...
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wartrax13&count_private=true&show_icons=true&theme=onedark)
