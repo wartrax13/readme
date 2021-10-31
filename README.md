@@ -1,11 +1,11 @@
-### Hi there 👋, My name is Pedro
+### Hi there 👋, My name is Pedro Andrade
 #### I am a Python developer and Social Scientist and I love to understand the behaviorism of the people.
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: PYTHON | HTML | POSTGRESQL | DOCKER | HTML |  CSS | COMUNICATION
 
-- 🔭 I’m currently working on Necto System as Python Dev 
+- 🔭 I’m currently working on [Necto System](http://znc.com.br/en/) as Python Dev 
 - 👯 I’m looking to collaborate on People 
 - 📫 How to reach me: pedro.moisesandrade@gmail.com 
 - ⚡ Fun fact: I am musician (guitar and singer), sociology teacher and I worked for 4 years as an anthropologist in popular culture research.   
@@ -24,14 +24,3 @@ Skills: PYTHON | HTML | POSTGRESQL | DOCKER | HTML |  CSS | COMUNICATION
  [![Linkedin Badge](https://img.shields.io/badge/-wartrax13-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-moises-andrade-dos-santos/)](https://www.linkedin.com/in/pedro-moises-andrade-dos-santos/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/pedroandrade.py?igshid=1o9uhlz6bqs4s)](https://instagram.com/pedroandrade.py?igshid=1o9uhlz6bqs4s)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.moisesandrade@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.moisesandrade@gmail.com)](mailto:pedro.moisesandrade@gmail.com)
-
-## Olá! Sou Pedro Andrade👋
-#### Bem vindo ao meu mundo 🧑‍💻!
-
-- 👨‍🎓  &nbsp; Sou graduado em Ciências Sociais pela [UNICAMP](https://www.unicamp.br/unicamp/).
-- 👨‍💻 &nbsp; Atualmente trabalho na [Necto System](http://znc.com.br/en/) como Dev Python
-- 📖 &nbsp; Estudando e praticando sobre Backend e Frontend em Python e Vue.js
-
-**💻 Experiências:**
- | Flutter 💙 | Java🧡 | Python💜 | Spring 💜| MySQL💜 | PostgreSQL💜| IoT💜|
-
