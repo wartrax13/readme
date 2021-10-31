@@ -18,8 +18,6 @@ Skills: PYTHON / HTML / POSTGRESQL / DOCKER / HTML /  CSS / COMUNICATION
 ## Github Stats ...
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wartrax13&count_private=true&show_icons=true&theme=onedark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wartrax13)  
-
 ![GitHub metrics](https://metrics.lecoq.io/wartrax13)  
 
 ![Profile views](https://gpvc.arturio.dev/wartrax13)  
