@@ -3,7 +3,7 @@
 
 Transport a handful of earth everyday and you will make a mountain. - Confucius
 
-#### Hard skills: Python | PostgreSQL | Docker | HTML |  CSS | Unitary Tests | 
+#### Hard skills: Python | PostgreSQL | Docker | HTML |  CSS | Unitary Tests | Bootstrap | Github
 #### Soft skills: Leadership | Diversity and Cultural Intelligence | Communication | Analytical Thinking | Decision Making | Adaptation | Formal Writing
 
 - 🔭 I’m currently working on [Necto System](http://znc.com.br/en/) as Python Dev 
