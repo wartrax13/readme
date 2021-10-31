@@ -27,9 +27,9 @@ Skills: PYTHON / HTML / POSTGRESQL / DOCKER / HTML /  CSS / COMUNICATION
 ## Olá! Sou Sisnando Junior👋
 #### Bem vindo ao meu mundo 🧑‍💻!
 
- [![Linkedin Badge](https://img.shields.io/badge/-SisnandoJunior-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sisnando-junior-812050b6/)](https://www.linkedin.com/in/sisnando-junior-812050b6/) 
- [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/sisnando_dev?igshid=1o9uhlz6bqs4s)](https://instagram.com/sisnando_dev?igshid=1o9uhlz6bqs4s) 
-[![Gmail Badge](https://img.shields.io/badge/-nandodevs@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nandodevs@gmail.com)](mailto:nandodevs@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-wartrax13-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-moises-andrade-dos-santos/)](https://www.linkedin.com/in/pedro-moises-andrade-dos-santos/) 
+ [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/pedroandrade.py?igshid=1o9uhlz6bqs4s)](https://instagram.com/pedroandrade.py?igshid=1o9uhlz6bqs4s) 
+[![Gmail Badge](https://img.shields.io/badge/-pedro.moisesandrade@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.moisesandrade@gmail.com)](mailto:pedro.moisesandrade@gmail.com)
 
 ### Sou um estudante em programação FullStack em São Luís - MA.
 
