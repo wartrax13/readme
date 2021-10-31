@@ -18,10 +18,6 @@ Transport a handful of earth everyday and you will make a mountain. - Confucius
 
 ...
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wartrax13&count_private=true&show_icons=true&theme=onedark)
-
-![GitHub metrics](https://metrics.lecoq.io/wartrax13)  
-
- [Profile views](https://gpvc.arturio.dev/wartrax13)  
  [![Linkedin Badge](https://img.shields.io/badge/-wartrax13-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-moises-andrade-dos-santos/)](https://www.linkedin.com/in/pedro-moises-andrade-dos-santos/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/pedroandrade.py?igshid=1o9uhlz6bqs4s)](https://instagram.com/pedroandrade.py?igshid=1o9uhlz6bqs4s)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.moisesandrade@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.moisesandrade@gmail.com)](mailto:pedro.moisesandrade@gmail.com)
