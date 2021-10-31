@@ -12,7 +12,7 @@ Transport a handful of earth everyday and you will make a mountain. - Confucius
 - 📫 How to reach me: pedro.moisesandrade@gmail.com 
 - ⚡ Fun fact: I am musician (guitar and singer), sociology teacher and I worked for 4 years as an anthropologist in popular culture research.   
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/watrax13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedro-moises-andrade-dos-santos/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pedroandrade.py/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCAd_xdItpeZ72wAR1r9oZ1w)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/watrax13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedro-andrade-dos-santos/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pedroandrade.py/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCAd_xdItpeZ72wAR1r9oZ1w)  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wartrax13&count_private=true&show_icons=true&theme=onedark)
 
