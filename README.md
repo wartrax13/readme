@@ -42,4 +42,4 @@ Skills: PYTHON / HTML / POSTGRESQL / DOCKER / HTML /  CSS / COMUNICATION
 
 
 ## Github Stats ...
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nandodevs&count_private=true&show_icons=true&theme=onedark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wartrax13&count_private=true&show_icons=true&theme=onedark)
