@@ -20,9 +20,9 @@ Skills: PYTHON / HTML / POSTGRESQL / DOCKER / HTML /  CSS / COMUNICATION
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wartrax13)  
 
-![GitHub metrics](https://metrics.lecoq.io/watrax13)  
+![GitHub metrics](https://metrics.lecoq.io/wartrax13)  
 
-![Profile views](https://gpvc.arturio.dev/watrax13)  
+![Profile views](https://gpvc.arturio.dev/wartrax13)  
 
 ## Olá! Sou Pedro Andrade👋
 #### Bem vindo ao meu mundo 🧑‍💻!
