@@ -3,9 +3,9 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: PYTHON | HTML | POSTGRESQL | DOCKER | HTML |  CSS | COMUNICATION
+Skills: #### PYTHON | HTML | POSTGRESQL | DOCKER | HTML |  CSS | COMUNICATION
 
-- 🔭 I’m currently working on [Necto System](http://znc.com.br/en/) as Python Dev 
+- 🔭 I’m currently working on [Necto System](http://znc.com.br/en/) as ####Python Dev 
 - 👯 I’m looking to collaborate on People 
 - 📫 How to reach me: pedro.moisesandrade@gmail.com 
 - ⚡ Fun fact: I am musician (guitar and singer), sociology teacher and I worked for 4 years as an anthropologist in popular culture research.   
