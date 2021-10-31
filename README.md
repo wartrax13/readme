@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Pedro Andrade
 #### I am a Python developer and Social Scientist and I love to understand the behaviorism of the people.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Transport a handful of earth everyday and you will make a mountain. - Confucius
 
 #### Skills: PYTHON | HTML | POSTGRESQL | DOCKER | HTML |  CSS | COMUNICATION
 
