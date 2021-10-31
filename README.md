@@ -20,16 +20,13 @@ Skills: PYTHON / HTML / POSTGRESQL / DOCKER / HTML /  CSS / COMUNICATION
 
 ![GitHub metrics](https://metrics.lecoq.io/wartrax13)  
 
-![Profile views](https://gpvc.arturio.dev/wartrax13)  
+ [Profile views](https://gpvc.arturio.dev/wartrax13)  
+ [![Linkedin Badge](https://img.shields.io/badge/-wartrax13-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-moises-andrade-dos-santos/)](https://www.linkedin.com/in/pedro-moises-andrade-dos-santos/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/pedroandrade.py?igshid=1o9uhlz6bqs4s)](https://instagram.com/pedroandrade.py?igshid=1o9uhlz6bqs4s)
+[![Gmail Badge](https://img.shields.io/badge/-pedro.moisesandrade@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.moisesandrade@gmail.com)](mailto:pedro.moisesandrade@gmail.com)
 
 ## Olá! Sou Pedro Andrade👋
 #### Bem vindo ao meu mundo 🧑‍💻!
-
- [![Linkedin Badge](https://img.shields.io/badge/-wartrax13-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-moises-andrade-dos-santos/)](https://www.linkedin.com/in/pedro-moises-andrade-dos-santos/) 
- [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/pedroandrade.py?igshid=1o9uhlz6bqs4s)](https://instagram.com/pedroandrade.py?igshid=1o9uhlz6bqs4s) 
-[![Gmail Badge](https://img.shields.io/badge/-pedro.moisesandrade@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.moisesandrade@gmail.com)](mailto:pedro.moisesandrade@gmail.com)
-
-### Sou um estudante em programação FullStack na região de Limeira, São Paulo, Brasil.
 
 - 👨‍🎓  &nbsp; Sou graduado em Ciências Sociais pela [UNICAMP](https://www.unicamp.br/unicamp/).
 - 👨‍💻 &nbsp; Atualmente trabalho na [Necto System](http://znc.com.br/en/) como Dev Python
