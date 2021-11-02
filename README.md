@@ -23,7 +23,7 @@ Transport a handful of earth everyday and you will make a mountain. - Confucius
   <a href = "mailto:pedro.moisesandrade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-andrade-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/wartrax13/wartrax13/blob/output/github-contribution-grid-snake.svg)
   ![Profile views](https://gpvc.arturio.dev/wartrax13)
 </div>
 
