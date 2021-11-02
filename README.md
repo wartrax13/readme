@@ -19,3 +19,9 @@ Transport a handful of earth everyday and you will make a mountain. - Confucius
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wartrax13)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/wartrax13)
+
+<div align="center">
+  <a href="https://github.com/wartrax13">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wartrax13&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wartrax13&layout=compact&langs_count=7&theme=radical"/>
+</div>
