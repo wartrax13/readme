@@ -24,4 +24,4 @@ Transport a handful of earth everyday and you will make a mountain. - Confucius
   
 ![Profile views](https://gpvc.arturio.dev/wartrax13)
 
-![Snake animation](https://github.com/wartrax13/Dudaqfigueiredo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wartrax13/wartrax13/blob/output/github-contribution-grid-snake.svg)
